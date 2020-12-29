@@ -7,6 +7,7 @@ Utilizes Cypress semiconductor's CYPD3177 IC.
 - Up to 3A current.
 - Large output pins.
 - I2C, GPIO_1, Interupt and Flip pins are wired out to a 2x3 1.27mm pitch pin header.
+- Screw holes next to usb-c port for better attachment.
 
 ### Todo
 - Replace output power pins with fastons.
