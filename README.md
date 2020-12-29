@@ -3,7 +3,7 @@ A board that negotiates voltage with PD compatible power supply.
 
 				An easy way to bring USB-C power to your own project.
 
-![A little board](https://github.com/midub/USB-C_PD_sink/blob/main/usbc-pd-sink.PNG, "USB-C Power Delivery sink")
+![A little board](https://github.com/midub/USB-C_PD_sink/blob/main/usbc-pd-sink.PNG "USB-C Power Delivery sink")
 
 ### Features
 - Utilizes Cypress semiconductor's [CYPD3177](https://www.cypress.com/file/460416/download) IC.
